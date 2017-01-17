@@ -1,0 +1,15 @@
+C:\Users\er\Downloads\MigrationToolPlugin\obj\Release\MigrationToolPlugin.MigrationToolUI.resources
+C:\Users\er\Downloads\MigrationToolPlugin\obj\Release\MigrationToolPlugin.csproj.GenerateResource.Cache
+C:\Users\er\Downloads\MigrationToolPlugin\obj\Release\MigrationToolPlugin.dll
+C:\Users\er\Downloads\MigrationToolPlugin\obj\Release\MigrationToolPlugin.pdb
+C:\Users\er\Downloads\MigrationToolUI.resx
+C:\Users\er\Downloads\MigrationToolUI.cs
+C:\Users\er\Downloads\MigrationToolUI.Designer.cs
+C:\Users\er\Downloads\MigrationToolPlugin.dll
+C:\Users\er\Downloads\MigrationToolPlugin.pdb
+D:\SteamLibrary_2\SteamApps\common\Kerbal Space Program\CKAN\Plugins\MigrationToolUI.resx
+D:\SteamLibrary_2\SteamApps\common\Kerbal Space Program\CKAN\Plugins\MigrationToolUI.cs
+D:\SteamLibrary_2\SteamApps\common\Kerbal Space Program\CKAN\Plugins\MigrationToolUI.Designer.cs
+D:\SteamLibrary_2\SteamApps\common\Kerbal Space Program\CKAN\Plugins\MigrationToolPlugin.dll
+D:\SteamLibrary_2\SteamApps\common\Kerbal Space Program\CKAN\Plugins\MigrationToolPlugin.pdb
+C:\Users\er\Downloads\MigrationToolPlugin\obj\Release\MigrationToolPlugin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\er\Downloads\MigrationToolPlugin\obj\Debug\MigrationToolPlugin.csprojResolveAssemblyReference.cache
+C:\Users\er\Downloads\MigrationToolPlugin\obj\Debug\MigrationToolPlugin.MigrationToolUI.resources
+C:\Users\er\Downloads\MigrationToolPlugin\obj\Debug\MigrationToolPlugin.csproj.GenerateResource.Cache
